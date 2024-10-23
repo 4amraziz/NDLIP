@@ -171,6 +171,22 @@
           "$value": "#A63A82"
         }
       }
+    },
+    "Content": {
+      "Base": {
+        "20": {
+          "$type": "color",
+          "$value": "#F8F9F9"
+        },
+        "40": {
+          "$type": "color",
+          "$value": "#F4F5F6"
+        },
+        "60": {
+          "$type": "color",
+          "$value": "#EAEBED"
+        }
+      }
     }
   }
 }
