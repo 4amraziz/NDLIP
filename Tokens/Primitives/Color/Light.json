@@ -85,6 +85,92 @@
           "$value": "#0F0F10"
         }
       }
+    },
+    "Tints": {
+      "Blue": {
+        "LightSky": {
+          "$type": "color",
+          "$value": "#D8F1FD"
+        },
+        "Sky": {
+          "$type": "color",
+          "$value": "#76CDF9"
+        },
+        "Sky-copyBlue": {
+          "$type": "color",
+          "$value": "#1847D3"
+        }
+      },
+      "Yellow": {
+        "LightYellow": {
+          "$type": "color",
+          "$value": "#FDF3D8"
+        },
+        "Yellow": {
+          "$type": "color",
+          "$value": "#F9D676"
+        },
+        "Orange": {
+          "$type": "color",
+          "$value": "#FF9232"
+        }
+      },
+      "Red": {
+        "LightRose": {
+          "$type": "color",
+          "$value": "#FDD8DF"
+        },
+        "Rose": {
+          "$type": "color",
+          "$value": "#F9768E"
+        },
+        "Red": {
+          "$type": "color",
+          "$value": "#B90106"
+        }
+      },
+      "Green": {
+        "LightLime": {
+          "$type": "color",
+          "$value": "#E9FDD8"
+        },
+        "Lime": {
+          "$type": "color",
+          "$value": "#B3F976"
+        },
+        "Green": {
+          "$type": "color",
+          "$value": "#32703A"
+        }
+      },
+      "Purple": {
+        "LightMauve": {
+          "$type": "color",
+          "$value": "#E1D6FF"
+        },
+        "Mauve": {
+          "$type": "color",
+          "$value": "#956FFF"
+        },
+        "Purple": {
+          "$type": "color",
+          "$value": "#7634C0"
+        }
+      },
+      "Pink": {
+        "LightFuscia": {
+          "$type": "color",
+          "$value": "#FDD8F6"
+        },
+        "Fuscia": {
+          "$type": "color",
+          "$value": "#F976DF"
+        },
+        "Pink": {
+          "$type": "color",
+          "$value": "#A63A82"
+        }
+      }
     }
   }
 }
