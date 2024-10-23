@@ -1,1 +1,8 @@
-{}
+{
+  "Core": {
+    "Light": {
+      "value": "#fffffffgfgggggg",
+      "type": "color"
+    }
+  }
+}
