@@ -1,5 +1,5 @@
 {
-  "CoreLight": {
+  "Core": {
     "Neutral": {
       "Blue": {
         "50": {
@@ -41,6 +41,48 @@
         "900": {
           "$type": "color",
           "$value": "#181D25"
+        }
+      },
+      "BlueGrey": {
+        "50": {
+          "$type": "color",
+          "$value": "#FFFFFF"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#FBFBFB"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#F3F5F6"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#EEF0F2"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#EAEBEC"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#DADCDD"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#C9CDCE"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#A1A4A5"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#646668"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#0F0F10"
         }
       }
     }
