@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
     "Primitives/Color/Light",
+    "Primitives/Color/Dark",
     "Primitives/Meter/Numbers",
     "Primitives/Meter/Size",
     "Primitives/Meter/Spacing",
