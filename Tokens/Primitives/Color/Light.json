@@ -1,0 +1,48 @@
+{
+  "CoreLight": {
+    "Neutral": {
+      "Blue": {
+        "50": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "100": {
+          "value": "#F9FAFB",
+          "type": "color"
+        },
+        "200": {
+          "value": "#F3F4F6",
+          "type": "color"
+        },
+        "300": {
+          "value": "#EEEFF2",
+          "type": "color"
+        },
+        "400": {
+          "value": "#E8EAEE",
+          "type": "color"
+        },
+        "500": {
+          "value": "#D7DAE0",
+          "type": "color"
+        },
+        "600": {
+          "value": "#C6CAD2",
+          "type": "color"
+        },
+        "700": {
+          "value": "#96A1B0",
+          "type": "color"
+        },
+        "800": {
+          "value": "#4F5969",
+          "type": "color"
+        },
+        "900": {
+          "value": "#181D25",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

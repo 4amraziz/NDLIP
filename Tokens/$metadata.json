@@ -1,16 +1,16 @@
 {
   "tokenSetOrder": [
-    "Core/Color/Light",
-    "Core/Color/Dark",
-    "Core/Meter/Numbers",
-    "Core/Meter/Size",
-    "Core/Meter/Spacing",
-    "Core/Meter/BorderWidth",
-    "Core/Meter/Opacity",
-    "Core/Font/Family",
-    "Core/Font/Weight",
-    "Core/Font/Size",
-    "Core/Font/LineHeight",
-    "Core/Font/LetterSpacing"
+    "Primitives/Color/Light",
+    "Primitives/Color/Dark",
+    "Primitives/Meter/Numbers",
+    "Primitives/Meter/Size",
+    "Primitives/Meter/Spacing",
+    "Primitives/Meter/BorderWidth",
+    "Primitives/Meter/Opacity",
+    "Primitives/Font/Family",
+    "Primitives/Font/Weight",
+    "Primitives/Font/Size",
+    "Primitives/Font/LineHeight",
+    "Primitives/Font/LetterSpacing"
   ]
 }
