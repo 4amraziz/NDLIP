@@ -1,5 +1,16 @@
 {
   "tokenSetOrder": [
-    "global"
+    "Core/Color/Light",
+    "Core/Color/Dark",
+    "Core/Meter/Numbers",
+    "Core/Meter/Size",
+    "Core/Meter/Spacing",
+    "Core/Meter/BorderWidth",
+    "Core/Meter/Opacity",
+    "Core/Font/Family",
+    "Core/Font/Weight",
+    "Core/Font/Size",
+    "Core/Font/LineHeight",
+    "Core/Font/LetterSpacing"
   ]
 }
