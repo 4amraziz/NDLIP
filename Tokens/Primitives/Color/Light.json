@@ -360,55 +360,55 @@
       "Bronze": {
         "20": {
           "$type": "color",
-          "$value": "#F7F7F7"
+          "$value": "#F8F7F7"
         },
         "40": {
           "$type": "color",
-          "$value": "#F3F3F3"
+          "$value": "#F3F3F2"
         },
         "60": {
           "$type": "color",
-          "$value": "#E7E7E7"
+          "$value": "#E7E6E6"
         },
         "80": {
           "$type": "color",
-          "$value": "#D4D4D4"
+          "$value": "#D6D4D3"
         },
         "100": {
           "$type": "color",
-          "$value": "#B6B6B6"
+          "$value": "#B8B5B3"
         },
         "200": {
           "$type": "color",
-          "$value": "#A5A5A5"
+          "$value": "#A7A4A2"
         },
         "300": {
           "$type": "color",
-          "$value": "#9A9A9A"
+          "$value": "#9C9997"
         },
         "400": {
           "$type": "color",
-          "$value": "#848484"
+          "$value": "#868482"
         },
         "500": {
           "$type": "color",
-          "$value": "#737373"
+          "$value": "#747271"
         },
         "600": {
           "$type": "color",
-          "$value": "#5D5D5D"
+          "$value": "#5E5D5C"
         },
         "700": {
           "$type": "color",
-          "$value": "#484848"
+          "$value": "#484746"
         },
         "800": {
           "$type": "color",
-          "$value": "#323232"
+          "$value": "#333231"
         },
         "900": {
           "$type": "color",
-          "$value": "#242424"
+          "$value": "#242423"
         },
         "1000": {
           "$type": "color",
