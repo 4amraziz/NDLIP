@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "dae1ae0fd48796bb346274cfb5ded79ae9c2bbf5",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Primitives/Color/Light": "source",
+      "Primitives/Meter/Numbers": "source",
+      "Primitives/Meter/Size": "source",
+      "Primitives/Meter/Spacing": "source",
+      "Primitives/Meter/BorderWidth": "source",
+      "Primitives/Meter/Opacity": "source",
+      "Primitives/Font/Family": "source",
+      "Primitives/Font/Weight": "source",
+      "Primitives/Font/Size": "source",
+      "Primitives/Font/LineHeight": "source",
+      "Primitives/Font/LetterSpacing": "source"
+    },
+    "group": "NDLIP"
+  },
+  {
+    "id": "128ff7cf702e027c2fe2eaa9796cb6bbcaf5aad2",
+    "name": "Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Primitives/Color/Dark": "source",
+      "Primitives/Meter/Numbers": "source",
+      "Primitives/Meter/Size": "source",
+      "Primitives/Meter/Spacing": "source",
+      "Primitives/Meter/BorderWidth": "source",
+      "Primitives/Meter/Opacity": "source",
+      "Primitives/Font/Family": "source",
+      "Primitives/Font/Weight": "source",
+      "Primitives/Font/Size": "source",
+      "Primitives/Font/LineHeight": "source",
+      "Primitives/Font/LetterSpacing": "source"
+    },
+    "group": "NDLIP"
+  }
+]
