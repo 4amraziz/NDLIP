@@ -5,16 +5,14 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Primitives/Color/Light": "source",
-      "Primitives/Meter/Numbers": "source",
-      "Primitives/Meter/Size": "source",
-      "Primitives/Meter/Spacing": "source",
       "Primitives/Meter/BorderWidth": "source",
       "Primitives/Meter/Opacity": "source",
       "Primitives/Font/Family": "source",
       "Primitives/Font/Weight": "source",
       "Primitives/Font/Size": "source",
       "Primitives/Font/LineHeight": "source",
-      "Primitives/Font/LetterSpacing": "source"
+      "Primitives/Font/LetterSpacing": "source",
+      "Primitives/Meter/NDSS": "source"
     },
     "group": "NDLIP"
   },
@@ -24,16 +22,14 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Primitives/Color/Dark": "source",
-      "Primitives/Meter/Numbers": "source",
-      "Primitives/Meter/Size": "source",
-      "Primitives/Meter/Spacing": "source",
       "Primitives/Meter/BorderWidth": "source",
       "Primitives/Meter/Opacity": "source",
       "Primitives/Font/Family": "source",
       "Primitives/Font/Weight": "source",
       "Primitives/Font/Size": "source",
       "Primitives/Font/LineHeight": "source",
-      "Primitives/Font/LetterSpacing": "source"
+      "Primitives/Font/LetterSpacing": "source",
+      "Primitives/Meter/NDSS": "source"
     },
     "group": "NDLIP"
   }
