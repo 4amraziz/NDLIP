@@ -9,6 +9,9 @@
     "Primitives/Font/Weight",
     "Primitives/Font/Size",
     "Primitives/Font/LineHeight",
-    "Primitives/Font/LetterSpacing"
+    "Primitives/Font/LetterSpacing",
+    "NDLIP/Foundation",
+    "NDLIP/Button",
+    "NDLIP/Inputs"
   ]
 }

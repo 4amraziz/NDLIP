@@ -12,7 +12,10 @@
       "Primitives/Font/Size": "source",
       "Primitives/Font/LineHeight": "source",
       "Primitives/Font/LetterSpacing": "source",
-      "Primitives/Meter/NDSS": "source"
+      "Primitives/Meter/NDSS": "source",
+      "NDLIP/Foundation": "enabled",
+      "NDLIP/Button": "enabled",
+      "NDLIP/Inputs": "enabled"
     },
     "group": "NDLIP"
   },
@@ -29,7 +32,10 @@
       "Primitives/Font/Size": "source",
       "Primitives/Font/LineHeight": "source",
       "Primitives/Font/LetterSpacing": "source",
-      "Primitives/Meter/NDSS": "source"
+      "Primitives/Meter/NDSS": "source",
+      "NDLIP/Foundation": "disabled",
+      "NDLIP/Button": "disabled",
+      "NDLIP/Inputs": "disabled"
     },
     "group": "NDLIP"
   }
