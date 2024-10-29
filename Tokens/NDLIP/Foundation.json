@@ -1,1 +1,52 @@
-{}
+{
+  "NDLIP": {
+    "Content": {
+      "Text": {
+        "Dark": {
+          "value": "{CoreV2.Apple.900}",
+          "type": "color"
+        },
+        "Medium": {
+          "value": "{CoreV2.Apple.800}",
+          "type": "color"
+        },
+        "Fade": {
+          "value": "{CoreV2.Apple.700}",
+          "type": "color"
+        },
+        "Out": {
+          "value": "{CoreV2.Apple.600}",
+          "type": "color"
+        }
+      },
+      "Shape": {
+        "Dark": {
+          "value": "{CoreV2.Apple.500}",
+          "type": "color"
+        },
+        "Medium": {
+          "value": "{CoreV2.Apple.400}",
+          "type": "color"
+        },
+        "Light": {
+          "value": "{CoreV2.Apple.300}",
+          "type": "color"
+        }
+      },
+      "Background": {
+        "Medium": {
+          "value": "{CoreV2.Apple.200}",
+          "type": "color"
+        },
+        "Light": {
+          "value": "{CoreV2.Apple.100}",
+          "type": "color"
+        },
+        "White": {
+          "value": "{CoreV2.Apple.50}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

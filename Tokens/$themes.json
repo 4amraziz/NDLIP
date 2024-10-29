@@ -32,10 +32,7 @@
       "Primitives/Font/Size": "source",
       "Primitives/Font/LineHeight": "source",
       "Primitives/Font/LetterSpacing": "source",
-      "Primitives/Meter/NDSS": "source",
-      "NDLIP/Foundation": "disabled",
-      "NDLIP/Button": "disabled",
-      "NDLIP/Inputs": "disabled"
+      "Primitives/Meter/NDSS": "source"
     },
     "group": "NDLIP"
   }
