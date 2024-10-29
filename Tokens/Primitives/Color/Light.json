@@ -3,7 +3,7 @@
     "Neutral": {
       "Blue": {
         "50": {
-          "value": "#FFFFFF",
+          "value": "red",
           "type": "color"
         },
         "100": {
