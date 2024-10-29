@@ -1346,5 +1346,49 @@
         }
       }
     }
+  },
+  "CoreV2": {
+    "Apple": {
+      "50": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "100": {
+        "value": "#FAFAFC",
+        "type": "color"
+      },
+      "200": {
+        "value": "#F5F5F7",
+        "type": "color"
+      },
+      "300": {
+        "value": "#ECECEE",
+        "type": "color"
+      },
+      "400": {
+        "value": "#DEDEE2",
+        "type": "color"
+      },
+      "500": {
+        "value": "#D2D2D7",
+        "type": "color"
+      },
+      "600": {
+        "value": "#B8B8B9",
+        "type": "color"
+      },
+      "700": {
+        "value": "#86868B",
+        "type": "color"
+      },
+      "800": {
+        "value": "#515154",
+        "type": "color"
+      },
+      "900": {
+        "value": "#1D1D1F",
+        "type": "color"
+      }
+    }
   }
 }
