@@ -13,7 +13,11 @@
       "NDLIP.Content.Background.Medium": "S:07fdf21351e47d7b612ba43f7b2282cff67938b5,",
       "NDLIP.Content.Background.Light": "S:d26c93fe637211959b2826baf12cff277e053223,",
       "NDLIP.Content.Background.White": "S:803b1f64316ee13d1abcd819ecc0ce4502185551,",
-      "NDLIP.Brand.colormain": "S:130091cfc899fac8f9493b214b5a209d20a9ebac,"
+      "NDLIP.Brand.colormain": "S:130091cfc899fac8f9493b214b5a209d20a9ebac,",
+      "NDLIP.brand.main": "S:ae43e22df1624a73a56f9a3457907f461f41276a,",
+      "NDLIP.brand.main-copy": "S:97364a846893ce33045c1e78b752d9ff8b3cf649,",
+      "NDLIP.brand.main-copy-copy": "S:e453c09200b9327c4f35f83fa2d43083d923bea3,",
+      "NDLIP.brand.main-copy-copy-copy": "S:9e8e2390aa4f9c723d2ad7ac184c923544dc1a54,"
     },
     "selectedTokenSets": {
       "Primitives/Color/Light": "source",
@@ -33,16 +37,20 @@
     "$figmaCollectionId": "VariableCollectionId:274:11507",
     "$figmaModeId": "274:0",
     "$figmaVariableReferences": {
-      "NDLIP.Content.Text.Dark": "c2f17df300c163baae9dcd3add75f70e7fb3d2f7",
-      "NDLIP.Content.Text.Medium": "c520b5077fb97bdef3359f1598d8f080b9c9c919",
-      "NDLIP.Content.Text.Fade": "bea455eb143392f43772ac7658a9be54330dcf4f",
-      "NDLIP.Content.Text.Out": "0eefd82557adce884f2ce1229376eea11de1017c",
-      "NDLIP.Content.Shape.Dark": "d3cd1b634ce1282831b5832299639f20c211b9f4",
-      "NDLIP.Content.Shape.Medium": "aeec52025c6fc25992ab434c4af30ae630f1eb12",
-      "NDLIP.Content.Shape.Light": "56f6b1d70067a6a1e357d69ad83a9a7775595234",
-      "NDLIP.Content.Background.Medium": "c5973049485567e63e79e0b277203c7bd8721143",
-      "NDLIP.Content.Background.Light": "cc4c55b6fe4c059f23c2e225678b88f0698c53d6",
-      "NDLIP.Content.Background.White": "b170cea0e7956b40a9c1de1cd5fb41e5f2649b98"
+      "NDLIP.Content.Text.Dark": "4f7fcd09e959b027896e23a2d717feef7530b3bc",
+      "NDLIP.Content.Text.Medium": "535d086b218053107b9205c40c5fdc882ddbf612",
+      "NDLIP.Content.Text.Fade": "b60bdb8ac210c143914555194afc7042937a7ff5",
+      "NDLIP.Content.Text.Out": "02c8f87d25be00bca369bf351b13280adc60b92b",
+      "NDLIP.Content.Shape.Dark": "bae0929227322ff54b95d7ddbf570da631acce0e",
+      "NDLIP.Content.Shape.Medium": "0e37cd243ab70d5f8cb4813bd58985035b34191e",
+      "NDLIP.Content.Shape.Light": "9b4dd02cee4f616d9f5c773f855c7c942762a6d3",
+      "NDLIP.Content.Background.Medium": "30f62676bd15deb8fd3da52ed110abea6c1928af",
+      "NDLIP.Content.Background.Light": "6773f2805835f5cf06752df6ffd996a45555527a",
+      "NDLIP.Content.Background.White": "9967e0cb17e30fd5dd6312455a3b7502905d7de5",
+      "NDLIP.brand.main": "afe7fb3b5b19cd5ffd9097ddae90dc8522592433",
+      "NDLIP.brand.main-copy": "26b88b95ce5ac8e969242e26998b190cce02d078",
+      "NDLIP.brand.main-copy-copy": "52d71eb0e6e482206faa4bf49101238fa46a220e",
+      "NDLIP.brand.main-copy-copy-copy": "fc2ca0b9db7f9113d1c2ea7cd7d24348e75193b2"
     }
   },
   {

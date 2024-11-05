@@ -3,7 +3,7 @@
     "Content": {
       "Text": {
         "Dark": {
-          "value": "red",
+          "value": "blue",
           "type": "color"
         },
         "Medium": {
@@ -52,6 +52,65 @@
       "colormain": {
         "value": "linear-gradient(180deg, {Core.Shades.Teal.600} 0%, {Core.Tints.Yellow.Orange}  100%)",
         "type": "color"
+      }
+    },
+    "brand": {
+      "main": {
+        "value": "#17800f",
+        "type": "color"
+      },
+      "main-copyt": {
+        "value": "{NDLIP.brand.main}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": ".5",
+              "space": "lch",
+              "color": "{Core.Neutral.Blue.900}"
+            }
+          }
+        }
+      },
+      "main-copy": {
+        "value": "{NDLIP.brand.main}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.2",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "main-copy-copy": {
+        "value": "{NDLIP.brand.main}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.3",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "main-copy-copy-copy": {
+        "value": "{NDLIP.brand.main}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.4",
+              "space": "lch"
+            }
+          }
+        }
       }
     }
   }
