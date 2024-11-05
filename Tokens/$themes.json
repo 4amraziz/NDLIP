@@ -2,7 +2,19 @@
   {
     "id": "dae1ae0fd48796bb346274cfb5ded79ae9c2bbf5",
     "name": "Light",
-    "$figmaStyleReferences": {},
+    "$figmaStyleReferences": {
+      "NDLIP.Content.Text.Dark": "S:6bbb20886369178e7d5b908d31496a26771fe841,",
+      "NDLIP.Content.Text.Medium": "S:f6831092c18f37ab2501ac5752f4fbebfd05430d,",
+      "NDLIP.Content.Text.Fade": "S:2cd832c2f534aa14f79806c18af8a2db90644033,",
+      "NDLIP.Content.Text.Out": "S:1649132f33bcd873cf4a62d13e92097d1c25164f,",
+      "NDLIP.Content.Shape.Dark": "S:c49682f3995dc7527b9f7d4bbac5a645ec053fca,",
+      "NDLIP.Content.Shape.Medium": "S:7766fede36b45be8d5e60aad26cff09dc81300a4,",
+      "NDLIP.Content.Shape.Light": "S:5594a1efede27f903db5576460fcfbf2f1852e1b,",
+      "NDLIP.Content.Background.Medium": "S:07fdf21351e47d7b612ba43f7b2282cff67938b5,",
+      "NDLIP.Content.Background.Light": "S:d26c93fe637211959b2826baf12cff277e053223,",
+      "NDLIP.Content.Background.White": "S:803b1f64316ee13d1abcd819ecc0ce4502185551,",
+      "NDLIP.Brand.colormain": "S:130091cfc899fac8f9493b214b5a209d20a9ebac,"
+    },
     "selectedTokenSets": {
       "Primitives/Color/Light": "source",
       "Primitives/Meter/BorderWidth": "source",
@@ -17,7 +29,21 @@
       "NDLIP/Button": "enabled",
       "NDLIP/Inputs": "enabled"
     },
-    "group": "NDLIP"
+    "group": "NDLIP",
+    "$figmaCollectionId": "VariableCollectionId:274:11507",
+    "$figmaModeId": "274:0",
+    "$figmaVariableReferences": {
+      "NDLIP.Content.Text.Dark": "c2f17df300c163baae9dcd3add75f70e7fb3d2f7",
+      "NDLIP.Content.Text.Medium": "c520b5077fb97bdef3359f1598d8f080b9c9c919",
+      "NDLIP.Content.Text.Fade": "bea455eb143392f43772ac7658a9be54330dcf4f",
+      "NDLIP.Content.Text.Out": "0eefd82557adce884f2ce1229376eea11de1017c",
+      "NDLIP.Content.Shape.Dark": "d3cd1b634ce1282831b5832299639f20c211b9f4",
+      "NDLIP.Content.Shape.Medium": "aeec52025c6fc25992ab434c4af30ae630f1eb12",
+      "NDLIP.Content.Shape.Light": "56f6b1d70067a6a1e357d69ad83a9a7775595234",
+      "NDLIP.Content.Background.Medium": "c5973049485567e63e79e0b277203c7bd8721143",
+      "NDLIP.Content.Background.Light": "cc4c55b6fe4c059f23c2e225678b88f0698c53d6",
+      "NDLIP.Content.Background.White": "b170cea0e7956b40a9c1de1cd5fb41e5f2649b98"
+    }
   },
   {
     "id": "128ff7cf702e027c2fe2eaa9796cb6bbcaf5aad2",

@@ -3,7 +3,7 @@
     "Content": {
       "Text": {
         "Dark": {
-          "value": "{CoreV2.Apple.900}",
+          "value": "red",
           "type": "color"
         },
         "Medium": {
@@ -46,6 +46,12 @@
           "value": "{CoreV2.Apple.50}",
           "type": "color"
         }
+      }
+    },
+    "Brand": {
+      "colormain": {
+        "value": "linear-gradient(180deg, {Core.Shades.Teal.600} 0%, {Core.Tints.Yellow.Orange}  100%)",
+        "type": "color"
       }
     }
   }
