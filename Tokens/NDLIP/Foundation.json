@@ -50,68 +50,19 @@
     },
     "Brand": {
       "colormain": {
-        "value": "linear-gradient(180deg, {Core.Shades.Teal.600} 0%, {Core.Tints.Yellow.Orange}  100%)",
+        "value": "linear-gradient(180deg, {Core.Shades.Pink.600} 0%, {Core.Tints.Green.Lime}  100%)",
         "type": "color"
       }
     },
     "brand": {
       "main": {
-        "value": "#17800f",
+        "value": "yellow",
         "type": "color"
-      },
-      "main-copyt": {
-        "value": "{NDLIP.brand.main}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "mix",
-              "value": ".5",
-              "space": "lch",
-              "color": "{Core.Neutral.Blue.900}"
-            }
-          }
-        }
-      },
-      "main-copy": {
-        "value": "{NDLIP.brand.main}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.2",
-              "space": "lch"
-            }
-          }
-        }
-      },
-      "main-copy-copy": {
-        "value": "{NDLIP.brand.main}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.3",
-              "space": "lch"
-            }
-          }
-        }
-      },
-      "main-copy-copy-copy": {
-        "value": "{NDLIP.brand.main}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.4",
-              "space": "lch"
-            }
-          }
-        }
       }
     }
+  },
+  "image": {
+    "value": "https://thumbs.dreamstime.com/b/golden-retriever-dog-21668976.jpg",
+    "type": "asset"
   }
 }
