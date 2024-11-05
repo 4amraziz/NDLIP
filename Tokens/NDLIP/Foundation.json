@@ -52,17 +52,29 @@
       "colormain": {
         "value": "linear-gradient(180deg, {Core.Shades.Pink.600} 0%, {Core.Tints.Green.Lime}  100%)",
         "type": "color"
+      },
+      "main_gradient": {
+        "value": "linear-gradient(180deg, {Core.Tints.Blue.Sky-copyBlue} 00%, {NDLIP.brand.main} 100%)",
+        "type": "color"
       }
     },
     "brand": {
       "main": {
-        "value": "yellow",
+        "value": "{Core.Shades.Violet.700}",
+        "type": "color"
+      },
+      "Secondary": {
+        "value": "{Core.Shades.Teal.600}",
         "type": "color"
       }
     }
   },
-  "image": {
-    "value": "https://thumbs.dreamstime.com/b/golden-retriever-dog-21668976.jpg",
-    "type": "asset"
+  "main": {
+    "value": "16",
+    "type": "fontSizes"
+  },
+  "seocndar": {
+    "value": "({main}* 4)",
+    "type": "fontSizes"
   }
 }
