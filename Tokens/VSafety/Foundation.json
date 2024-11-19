@@ -47,7 +47,9 @@
           "type": "color"
         }
       }
-    },
+    }
+  },
+  "VSafety": {
     "Brand": {
       "colormain": {
         "value": "#0088AF",
@@ -58,14 +60,48 @@
         "type": "color"
       }
     },
-    "Secondary_Colors": {
-      "main": {
-        "value": "{Core.Shades.Violet.700}",
-        "type": "color"
+    "Secondary": {
+      "Orange": {
+        "main": {
+          "value": "{Core.Tints.Yellow.Orange}",
+          "type": "color"
+        },
+        "Secondary": {
+          "value": "{Core.Tints.Yellow.Yellow}",
+          "type": "color"
+        },
+        "Third": {
+          "value": "{Core.Tints.Yellow.LightYellow}",
+          "type": "color"
+        }
       },
-      "Secondary": {
-        "value": "{Core.Shades.Teal.600}",
-        "type": "color"
+      "Red": {
+        "main": {
+          "value": "{Core.Tints.Red.Red}",
+          "type": "color"
+        },
+        "Secondary": {
+          "value": "{Core.Tints.Red.Rose}",
+          "type": "color"
+        },
+        "Third": {
+          "value": "{Core.Tints.Red.LightRose}",
+          "type": "color"
+        }
+      },
+      "Green": {
+        "main": {
+          "value": "{Core.Tints.Green.Green}",
+          "type": "color"
+        },
+        "Secondary": {
+          "value": "{Core.Tints.Green.Lime}",
+          "type": "color"
+        },
+        "Third": {
+          "value": "{Core.Tints.Green.LightLime}",
+          "type": "color"
+        }
       }
     }
   },
