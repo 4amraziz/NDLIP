@@ -14,7 +14,7 @@
       "NDLIP.Content.Background.Light": "S:d26c93fe637211959b2826baf12cff277e053223,",
       "NDLIP.Content.Background.White": "S:803b1f64316ee13d1abcd819ecc0ce4502185551,",
       "NDLIP.Brand.colormain": "S:130091cfc899fac8f9493b214b5a209d20a9ebac,",
-      "NDLIP.brand.main": "S:ae43e22df1624a73a56f9a3457907f461f41276a,"
+      "NDLIP.Secondary_Colors.main": "S:ae43e22df1624a73a56f9a3457907f461f41276a,"
     },
     "selectedTokenSets": {
       "Primitives/Color/Light": "source",
@@ -26,9 +26,9 @@
       "Primitives/Font/LineHeight": "source",
       "Primitives/Font/LetterSpacing": "source",
       "Primitives/Meter/NDSS": "source",
-      "NDLIP/Foundation": "enabled",
-      "NDLIP/Button": "enabled",
-      "NDLIP/Inputs": "enabled"
+      "VSafety/Foundation": "enabled",
+      "VSafety/Button": "enabled",
+      "VSafety/Inputs": "enabled"
     },
     "group": "NDLIP",
     "$figmaCollectionId": "VariableCollectionId:274:11507",
@@ -44,7 +44,7 @@
       "NDLIP.Content.Background.Medium": "2d308a07740a2ab3e077b7d1e2458b9ac2c95845",
       "NDLIP.Content.Background.Light": "a582be2b3e4490f786283933ada380d2d52a4912",
       "NDLIP.Content.Background.White": "936517581d405c97099401d8d66bf009e4ab39ee",
-      "NDLIP.brand.main": "242691c1dfbf10d268b463700a6603c8ccd598bb"
+      "NDLIP.Secondary_Colors.main": "242691c1dfbf10d268b463700a6603c8ccd598bb"
     }
   },
   {
@@ -60,7 +60,10 @@
       "Primitives/Font/Size": "source",
       "Primitives/Font/LineHeight": "source",
       "Primitives/Font/LetterSpacing": "source",
-      "Primitives/Meter/NDSS": "source"
+      "Primitives/Meter/NDSS": "source",
+      "VSafety/Foundation": "disabled",
+      "VSafety/Button": "disabled",
+      "VSafety/Inputs": "disabled"
     },
     "group": "NDLIP"
   }

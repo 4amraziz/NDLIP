@@ -10,8 +10,8 @@
     "Primitives/Font/Size",
     "Primitives/Font/LineHeight",
     "Primitives/Font/LetterSpacing",
-    "NDLIP/Foundation",
-    "NDLIP/Button",
-    "NDLIP/Inputs"
+    "VSafety/Foundation",
+    "VSafety/Button",
+    "VSafety/Inputs"
   ]
 }

@@ -50,15 +50,15 @@
     },
     "Brand": {
       "colormain": {
-        "value": "linear-gradient(180deg, {Core.Shades.Pink.600} 0%, {Core.Tints.Green.Lime}  100%)",
+        "value": "#0088AF",
         "type": "color"
       },
-      "main_gradient": {
-        "value": "linear-gradient(180deg, {Core.Tints.Blue.Sky-copyBlue} 00%, {NDLIP.brand.main} 100%)",
+      "Secondary": {
+        "value": "#003646",
         "type": "color"
       }
     },
-    "brand": {
+    "Secondary_Colors": {
       "main": {
         "value": "{Core.Shades.Violet.700}",
         "type": "color"
