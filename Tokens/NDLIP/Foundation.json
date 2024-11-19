@@ -3,7 +3,7 @@
     "Content": {
       "Text": {
         "Dark": {
-          "value": "green",
+          "value": "{CoreV2.Apple.900}",
           "type": "color"
         },
         "Medium": {
