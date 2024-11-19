@@ -13,8 +13,8 @@
       "NDLIP.Content.Background.Medium": "S:07fdf21351e47d7b612ba43f7b2282cff67938b5,",
       "NDLIP.Content.Background.Light": "S:d26c93fe637211959b2826baf12cff277e053223,",
       "NDLIP.Content.Background.White": "S:803b1f64316ee13d1abcd819ecc0ce4502185551,",
-      "VSafety.Brand.colormain": "S:130091cfc899fac8f9493b214b5a209d20a9ebac,",
-      "VSafety.Secondary.Orange.main": "S:ae43e22df1624a73a56f9a3457907f461f41276a,"
+      "VSafety.Secondary.Orange.main": "S:ae43e22df1624a73a56f9a3457907f461f41276a,",
+      "VSafety.Brand.main": "S:130091cfc899fac8f9493b214b5a209d20a9ebac,"
     },
     "selectedTokenSets": {
       "Primitives/Color/Light": "source",

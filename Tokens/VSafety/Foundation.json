@@ -51,12 +51,16 @@
   },
   "VSafety": {
     "Brand": {
-      "colormain": {
-        "value": "#0088AF",
+      "main": {
+        "value": "#003F52",
         "type": "color"
       },
       "Secondary": {
-        "value": "#003646",
+        "value": "#0088AF",
+        "type": "color"
+      },
+      "Third": {
+        "value": "#CEF5FD",
         "type": "color"
       }
     },
