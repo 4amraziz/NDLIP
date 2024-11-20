@@ -71,7 +71,7 @@
           "type": "color"
         },
         "Secondary": {
-          "value": "{Core.Tints.Yellow.Yellow}",
+          "value": "#F6C23C",
           "type": "color"
         },
         "Third": {
@@ -85,7 +85,7 @@
           "type": "color"
         },
         "Secondary": {
-          "value": "{Core.Tints.Red.Rose}",
+          "value": "#BC3B3B",
           "type": "color"
         },
         "Third": {
@@ -99,7 +99,7 @@
           "type": "color"
         },
         "Secondary": {
-          "value": "{Core.Tints.Green.Lime}",
+          "value": "#44A93B",
           "type": "color"
         },
         "Third": {
