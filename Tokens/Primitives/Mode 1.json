@@ -1,0 +1,118 @@
+{
+  "Light": {
+    "Neutral": {
+      "50": {
+        "value": "#fafafa",
+        "type": "color"
+      },
+      "500": {
+        "value": "#5f686d",
+        "type": "color"
+      },
+      "700": {
+        "value": "#3e4347",
+        "type": "color"
+      }
+    },
+    "Primary": {
+      "50": {
+        "value": "#e7f5ed",
+        "type": "color"
+      },
+      "200": {
+        "value": "#9fd8b6",
+        "type": "color"
+      },
+      "400": {
+        "value": "#40b16d",
+        "type": "color"
+      },
+      "500": {
+        "value": "#109d49",
+        "type": "color"
+      },
+      "600": {
+        "value": "#0d7e3a",
+        "type": "color"
+      },
+      "700": {
+        "value": "#0a5e2c",
+        "type": "color"
+      }
+    },
+    "System": {
+      "Warning": {
+        "100": {
+          "value": "#fef9c3",
+          "type": "color"
+        },
+        "500": {
+          "value": "#eab308",
+          "type": "color"
+        },
+        "600": {
+          "value": "#ca8a04",
+          "type": "color"
+        }
+      },
+      "Success": {
+        "100": {
+          "value": "#daeed8",
+          "type": "color"
+        },
+        "500": {
+          "value": "#44a93b",
+          "type": "color"
+        },
+        "700": {
+          "value": "#307629",
+          "type": "color"
+        }
+      },
+      "Informative": {
+        "100": {
+          "value": "#d0f6f6",
+          "type": "color"
+        },
+        "700": {
+          "value": "#0d7d7d",
+          "type": "color"
+        }
+      },
+      "Error": {
+        "500": {
+          "value": "#d14242",
+          "type": "color"
+        },
+        "700": {
+          "value": "#922e2e",
+          "type": "color"
+        }
+      }
+    },
+    "Secondary": {
+      "50": {
+        "value": "#fff8ee",
+        "type": "color"
+      },
+      "100": {
+        "value": "#fef1dc",
+        "type": "color"
+      },
+      "500": {
+        "value": "#fcb852",
+        "type": "color"
+      },
+      "700": {
+        "value": "#976e31",
+        "type": "color"
+      }
+    }
+  },
+  "Constant": {
+    "White": {
+      "value": "#ffffff",
+      "type": "color"
+    }
+  }
+}
