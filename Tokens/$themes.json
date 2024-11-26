@@ -28,7 +28,8 @@
       "Primitives/Meter/NDSS": "source",
       "VSafety/Foundation": "enabled",
       "VSafety/Button": "enabled",
-      "VSafety/Inputs": "enabled"
+      "VSafety/Inputs": "enabled",
+      "VSafety/Foundation2": "disabled"
     },
     "group": "NDLIP",
     "$figmaCollectionId": "VariableCollectionId:274:11507",
@@ -60,7 +61,8 @@
       "Primitives/Font/Size": "source",
       "Primitives/Font/LineHeight": "source",
       "Primitives/Font/LetterSpacing": "source",
-      "Primitives/Meter/NDSS": "source"
+      "Primitives/Meter/NDSS": "source",
+      "VSafety/Foundation2": "disabled"
     },
     "group": "NDLIP"
   }
