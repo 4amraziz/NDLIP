@@ -26,12 +26,10 @@
       "Primitives/Font/LineHeight": "source",
       "Primitives/Font/LetterSpacing": "source",
       "Primitives/Meter/NDSS": "source",
-      "VSafety/Foundation": "enabled",
       "VSafety/Button": "enabled",
       "VSafety/Inputs": "enabled",
-      "VSafety/Foundation2": "disabled"
+      "VSafety/Foundation2": "enabled"
     },
-    "group": "NDLIP",
     "$figmaCollectionId": "VariableCollectionId:274:11507",
     "$figmaModeId": "274:0",
     "$figmaVariableReferences": {
@@ -46,7 +44,8 @@
       "NDLIP.Content.Background.Light": "a582be2b3e4490f786283933ada380d2d52a4912",
       "NDLIP.Content.Background.White": "936517581d405c97099401d8d66bf009e4ab39ee",
       "VSafety.Secondary.Orange.main": "242691c1dfbf10d268b463700a6603c8ccd598bb"
-    }
+    },
+    "group": "NDLIP"
   },
   {
     "id": "128ff7cf702e027c2fe2eaa9796cb6bbcaf5aad2",
@@ -61,8 +60,7 @@
       "Primitives/Font/Size": "source",
       "Primitives/Font/LineHeight": "source",
       "Primitives/Font/LetterSpacing": "source",
-      "Primitives/Meter/NDSS": "source",
-      "VSafety/Foundation2": "disabled"
+      "Primitives/Meter/NDSS": "source"
     },
     "group": "NDLIP"
   }

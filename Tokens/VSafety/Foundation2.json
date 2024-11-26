@@ -3,43 +3,43 @@
     "Content": {
       "Text": {
         "Dark": {
-          "value": "{CoreV2.Apple.900}",
+          "value": "{CoreV2.BluePT.900}",
           "type": "color"
         },
         "Medium": {
-          "value": "{CoreV2.Apple.800}",
+          "value": "{CoreV2.BluePT.800}",
           "type": "color"
         },
         "Fade": {
-          "value": "{CoreV2.Apple.700}",
+          "value": "{CoreV2.BluePT.700}",
           "type": "color"
         },
         "Out": {
-          "value": "{CoreV2.Apple.600}",
+          "value": "{CoreV2.BluePT.600}",
           "type": "color"
         }
       },
       "Shape": {
         "Dark": {
-          "value": "{CoreV2.Apple.500}",
+          "value": "{CoreV2.BluePT.500}",
           "type": "color"
         },
         "Medium": {
-          "value": "{CoreV2.Apple.400}",
+          "value": "{CoreV2.BluePT.400}",
           "type": "color"
         },
         "Light": {
-          "value": "{CoreV2.Apple.300}",
+          "value": "{CoreV2.BluePT.300}",
           "type": "color"
         }
       },
       "Background": {
         "Medium": {
-          "value": "{CoreV2.Apple.200}",
+          "value": "{CoreV2.BluePT.200}",
           "type": "color"
         },
         "Light": {
-          "value": "{CoreV2.Apple.100}",
+          "value": "{CoreV2.BluePT.100}",
           "type": "color"
         },
         "White": {
