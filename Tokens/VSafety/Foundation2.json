@@ -2,12 +2,12 @@
   "Main": {
     "Content": {
       "Text": {
-        "Dark": {
-          "value": "{CoreV2.BluePT.900}",
-          "type": "color"
-        },
         "Medium": {
           "value": "{CoreV2.BluePT.800}",
+          "type": "color"
+        },
+        "Dark": {
+          "value": "{CoreV2.BluePT.900}",
           "type": "color"
         },
         "Fade": {
