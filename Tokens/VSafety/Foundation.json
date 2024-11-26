@@ -119,7 +119,7 @@
   },
   "VSafety_2": {
     "Brand": {
-      "main": {
+      "Dark": {
         "value": "#012732",
         "type": "color"
       },
@@ -127,7 +127,7 @@
         "value": "#004054",
         "type": "color"
       },
-      "Third": {
+      "Main": {
         "value": "#0088AF",
         "type": "color"
       },
