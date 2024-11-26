@@ -209,25 +209,25 @@
       },
       "Shape": {
         "Dark": {
-          "value": "{CoreV2.Apple.500}",
+          "value": "#C6CCDC",
           "type": "color"
         },
         "Medium": {
-          "value": "{CoreV2.Apple.400}",
+          "value": "#D5D9E2",
           "type": "color"
         },
         "Light": {
-          "value": "{CoreV2.Apple.300}",
+          "value": "#ECEEF3",
           "type": "color"
         }
       },
       "Background": {
         "Medium": {
-          "value": "{CoreV2.Apple.200}",
+          "value": "#F4F7FC",
           "type": "color"
         },
         "Light": {
-          "value": "{CoreV2.Apple.100}",
+          "value": "#FAFBFC",
           "type": "color"
         },
         "White": {
