@@ -86,44 +86,32 @@
     },
     "Secondary": {
       "Orange": {
-        "main": {
-          "value": "{Core.Tints.Yellow.Orange}",
-          "type": "color"
-        },
         "Secondary": {
-          "value": "#F6C23C",
+          "value": "#DFA716",
           "type": "color"
         },
         "Third": {
-          "value": "{Core.Tints.Yellow.LightYellow}",
+          "value": "#F9F1DC",
           "type": "color"
         }
       },
       "Red": {
-        "main": {
-          "value": "{Core.Tints.Red.Red}",
-          "type": "color"
-        },
         "Secondary": {
-          "value": "#BC3B3B",
+          "value": "#B90106",
           "type": "color"
         },
         "Third": {
-          "value": "{Core.Tints.Red.LightRose}",
+          "value": "#F8DDE2",
           "type": "color"
         }
       },
       "Green": {
-        "main": {
-          "value": "{Core.Tints.Green.Green}",
-          "type": "color"
-        },
         "Secondary": {
-          "value": "#44A93B",
+          "value": "#32703A",
           "type": "color"
         },
         "Third": {
-          "value": "{Core.Tints.Green.LightLime}",
+          "value": "#EAF5E0",
           "type": "color"
         }
       }
