@@ -1431,6 +1431,48 @@
         "value": "#143747",
         "type": "color"
       }
+    },
+    "DarkBlueNew": {
+      "50": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "100": {
+        "value": "#F8F9FA",
+        "type": "color"
+      },
+      "200": {
+        "value": "#F2F4F5",
+        "type": "color"
+      },
+      "300": {
+        "value": "#EBEEF0",
+        "type": "color"
+      },
+      "400": {
+        "value": "#E1E4E5",
+        "type": "color"
+      },
+      "500": {
+        "value": "#D4D9DC",
+        "type": "color"
+      },
+      "600": {
+        "value": "#B4C6CD",
+        "type": "color"
+      },
+      "700": {
+        "value": "#738F9B",
+        "type": "color"
+      },
+      "800": {
+        "value": "#2D5566",
+        "type": "color"
+      },
+      "900": {
+        "value": "#143747",
+        "type": "color"
+      }
     }
   }
 }
