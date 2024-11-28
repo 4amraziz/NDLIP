@@ -82,6 +82,14 @@
       "Sixth": {
         "value": "#D7F1F6",
         "type": "color"
+      },
+      "Sixth-2": {
+        "value": "#EBF5FA",
+        "type": "color"
+      },
+      "Sixth-3": {
+        "value": "#F7FBFD",
+        "type": "color"
       }
     },
     "Secondary": {
