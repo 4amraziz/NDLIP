@@ -73,7 +73,11 @@
           "type": "color"
         },
         "Soft": {
-          "value": "#FFF2DB",
+          "value": "#FFF7EB",
+          "type": "color"
+        },
+        "Air": {
+          "value": "#FFFCF7",
           "type": "color"
         }
       },
@@ -91,7 +95,11 @@
           "type": "color"
         },
         "Soft": {
-          "value": "#DAEED1",
+          "value": "#EFFAEB",
+          "type": "color"
+        },
+        "Air": {
+          "value": "#F6FAF5",
           "type": "color"
         }
       },
@@ -109,7 +117,11 @@
           "type": "color"
         },
         "Soft": {
-          "value": "#FFEBED",
+          "value": "#FFF0F1",
+          "type": "color"
+        },
+        "Air": {
+          "value": "#FFFAFA",
           "type": "color"
         }
       }
