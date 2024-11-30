@@ -50,34 +50,66 @@
         }
       }
     },
-    "Secondary": {
-      "Orange": {
+    "Brand": {
+      "Main": {
         "Secondary": {
-          "value": "#DFA716",
-          "type": "color"
-        },
-        "Third": {
-          "value": "#F9F1DC",
+          "value": "#0088AF",
           "type": "color"
         }
-      },
-      "Red": {
-        "Secondary": {
-          "value": "#B90106",
+      }
+    },
+    "SColors": {
+      "Orange": {
+        "Dark": {
+          "value": "#D15900",
           "type": "color"
         },
-        "Third": {
-          "value": "#F8DDE2",
+        "Med": {
+          "value": "#FFAB41",
+          "type": "color"
+        },
+        "Light": {
+          "value": "#FFE3B3",
+          "type": "color"
+        },
+        "Soft": {
+          "value": "#FFF2DB",
           "type": "color"
         }
       },
       "Green": {
-        "Secondary": {
-          "value": "#32703A",
+        "Dark": {
+          "value": "#02814A",
           "type": "color"
         },
-        "Third": {
-          "value": "#EAF5E0",
+        "Med": {
+          "value": "#0AB652",
+          "type": "color"
+        },
+        "Light": {
+          "value": "#CFEEC1",
+          "type": "color"
+        },
+        "Soft": {
+          "value": "#DAEED1",
+          "type": "color"
+        }
+      },
+      "Red": {
+        "Dark": {
+          "value": "#821523",
+          "type": "color"
+        },
+        "Med": {
+          "value": "#EE534F",
+          "type": "color"
+        },
+        "Light": {
+          "value": "#FFCDD2",
+          "type": "color"
+        },
+        "Soft": {
+          "value": "#FFEBED",
           "type": "color"
         }
       }
