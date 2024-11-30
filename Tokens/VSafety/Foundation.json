@@ -1,95 +1,53 @@
 {
   "Main": {
     "Content": {
-      "Text": {
+      "Ground": {
+        "Light": {
+          "value": "{Core_2025.Natural.100}",
+          "type": "color"
+        },
+        "Med": {
+          "value": "{Core_2025.Natural.200}",
+          "type": "color"
+        },
         "Dark": {
-          "value": "{CoreV2.DarkBlueNew.900}",
-          "type": "color"
-        },
-        "Medium": {
-          "value": "{CoreV2.DarkBlueNew.800}",
-          "type": "color"
-        },
-        "Fade": {
-          "value": "{CoreV2.DarkBlueNew.700}",
-          "type": "color"
-        },
-        "Out": {
-          "value": "{CoreV2.DarkBlueNew.600}",
+          "value": "{Core_2025.Natural.300}",
           "type": "color"
         }
       },
       "Shape": {
+        "Light": {
+          "value": "{Core_2025.Natural.400}",
+          "type": "color"
+        },
         "Dark": {
-          "value": "{CoreV2.DarkBlueNew.500}",
-          "type": "color"
-        },
-        "Medium": {
-          "value": "{CoreV2.DarkBlueNew.400}",
-          "type": "color"
-        },
-        "Light": {
-          "value": "{CoreV2.DarkBlueNew.300}",
+          "value": "{Core_2025.Natural.500}",
           "type": "color"
         }
       },
-      "Background": {
-        "Medium": {
-          "value": "{CoreV2.DarkBlueNew.200}",
-          "type": "color"
-        },
+      "Content": {
         "Light": {
-          "value": "{CoreV2.DarkBlueNew.100}",
+          "value": "{Core_2025.Natural.600}",
           "type": "color"
         },
+        "Med": {
+          "value": "{Core_2025.Natural.700}",
+          "type": "color"
+        },
+        "Dark": {
+          "value": "{Core_2025.Natural.800}",
+          "type": "color"
+        }
+      },
+      "Base": {
         "White": {
-          "value": "{CoreV2.DarkBlueNew.50}",
+          "value": "{Core_2025.Natural.50}",
+          "type": "color"
+        },
+        "Black": {
+          "value": "{Core_2025.Natural.900}",
           "type": "color"
         }
-      }
-    }
-  },
-  "main": {
-    "value": "16",
-    "type": "fontSizes"
-  },
-  "seocndar": {
-    "value": "({main}* 4)",
-    "type": "fontSizes"
-  },
-  "VSafety_2": {
-    "Brand": {
-      "Dark": {
-        "value": "#012732",
-        "type": "color"
-      },
-      "Secondary": {
-        "value": "#004054",
-        "type": "color"
-      },
-      "Main": {
-        "value": "#0088AF",
-        "type": "color"
-      },
-      "Fourth": {
-        "value": "#00BFEF",
-        "type": "color"
-      },
-      "Fifth": {
-        "value": "#73E7FE",
-        "type": "color"
-      },
-      "Sixth": {
-        "value": "#D7F1F6",
-        "type": "color"
-      },
-      "Sixth-2": {
-        "value": "#EBF5FA",
-        "type": "color"
-      },
-      "Sixth-3": {
-        "value": "#F7FBFD",
-        "type": "color"
       }
     },
     "Secondary": {
@@ -123,54 +81,14 @@
           "type": "color"
         }
       }
-    },
-    "Content": {
-      "Text": {
-        "Dark": {
-          "value": "#0D2237",
-          "type": "color"
-        },
-        "Medium": {
-          "value": "#28425B",
-          "type": "color"
-        },
-        "Fade": {
-          "value": "#727D9B",
-          "type": "color"
-        },
-        "Out": {
-          "value": "#ACB3CD",
-          "type": "color"
-        }
-      },
-      "Shape": {
-        "Dark": {
-          "value": "#C6CCDC",
-          "type": "color"
-        },
-        "Medium": {
-          "value": "#D5D9E2",
-          "type": "color"
-        },
-        "Light": {
-          "value": "#ECEEF3",
-          "type": "color"
-        }
-      },
-      "Background": {
-        "Medium": {
-          "value": "#F4F7FC",
-          "type": "color"
-        },
-        "Light": {
-          "value": "#FAFBFC",
-          "type": "color"
-        },
-        "White": {
-          "value": "{CoreV2.Apple.50}",
-          "type": "color"
-        }
-      }
     }
+  },
+  "main": {
+    "value": "16",
+    "type": "fontSizes"
+  },
+  "seocndar": {
+    "value": "({main}* 4)",
+    "type": "fontSizes"
   }
 }

@@ -5,16 +5,12 @@
     "$figmaStyleReferences": {
       "VSafety.Secondary.Orange.main": "S:ae43e22df1624a73a56f9a3457907f461f41276a,",
       "VSafety.Brand.main": "S:130091cfc899fac8f9493b214b5a209d20a9ebac,",
-      "Main.Content.Text.Dark": "S:6bbb20886369178e7d5b908d31496a26771fe841,",
-      "Main.Content.Text.Medium": "S:f6831092c18f37ab2501ac5752f4fbebfd05430d,",
-      "Main.Content.Text.Fade": "S:2cd832c2f534aa14f79806c18af8a2db90644033,",
-      "Main.Content.Text.Out": "S:1649132f33bcd873cf4a62d13e92097d1c25164f,",
       "Main.Content.Shape.Dark": "S:c49682f3995dc7527b9f7d4bbac5a645ec053fca,",
-      "Main.Content.Shape.Medium": "S:7766fede36b45be8d5e60aad26cff09dc81300a4,",
       "Main.Content.Shape.Light": "S:5594a1efede27f903db5576460fcfbf2f1852e1b,",
-      "Main.Content.Background.Medium": "S:07fdf21351e47d7b612ba43f7b2282cff67938b5,",
-      "Main.Content.Background.Light": "S:d26c93fe637211959b2826baf12cff277e053223,",
-      "Main.Content.Background.White": "S:803b1f64316ee13d1abcd819ecc0ce4502185551,"
+      "Main.Content.Content.Dark": "S:07fdf21351e47d7b612ba43f7b2282cff67938b5,",
+      "Main.Content.Ground.Dark": "S:6bbb20886369178e7d5b908d31496a26771fe841,",
+      "Main.Content.Ground.Med": "S:f6831092c18f37ab2501ac5752f4fbebfd05430d,",
+      "Main.Content.Ground.Light": "S:2cd832c2f534aa14f79806c18af8a2db90644033,"
     },
     "selectedTokenSets": {
       "Primitives/Color/Light": "source",
@@ -34,16 +30,12 @@
     "$figmaModeId": "274:0",
     "$figmaVariableReferences": {
       "VSafety.Secondary.Orange.main": "242691c1dfbf10d268b463700a6603c8ccd598bb",
-      "Main.Content.Text.Dark": "55951c3cd256da1a42827c2c79efb6de34a47e3b",
-      "Main.Content.Text.Medium": "2d53e96284173869d1329a18b0ba6fdfc180bb61",
-      "Main.Content.Text.Fade": "1d3fef65f257662e727f411dc278123763ba6797",
-      "Main.Content.Text.Out": "281dcea5a9b27d290607d26a3bb50f11fed34abc",
       "Main.Content.Shape.Dark": "1f74a6daaf61b176f055242b37d54f9df9373335",
-      "Main.Content.Shape.Medium": "de32d1d6f59990853b37808948415a063dbfdd99",
       "Main.Content.Shape.Light": "7ce2d594fd2a521295eae839482708c34f2c05a6",
-      "Main.Content.Background.Medium": "2d308a07740a2ab3e077b7d1e2458b9ac2c95845",
-      "Main.Content.Background.Light": "a582be2b3e4490f786283933ada380d2d52a4912",
-      "Main.Content.Background.White": "936517581d405c97099401d8d66bf009e4ab39ee"
+      "Main.Content.Content.Dark": "2d308a07740a2ab3e077b7d1e2458b9ac2c95845",
+      "Main.Content.Ground.Dark": "55951c3cd256da1a42827c2c79efb6de34a47e3b",
+      "Main.Content.Ground.Med": "2d53e96284173869d1329a18b0ba6fdfc180bb61",
+      "Main.Content.Ground.Light": "1d3fef65f257662e727f411dc278123763ba6797"
     },
     "group": "NDLIP"
   },
