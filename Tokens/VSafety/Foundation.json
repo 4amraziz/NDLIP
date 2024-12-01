@@ -52,8 +52,12 @@
     },
     "Brand": {
       "Main": {
-        "Secondary": {
+        "brand": {
           "value": "#0088AF",
+          "type": "color"
+        },
+        "soft": {
+          "value": "#F4FAFC",
           "type": "color"
         }
       }
