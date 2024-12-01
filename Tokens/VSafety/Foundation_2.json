@@ -1,0 +1,152 @@
+{
+  "Main": {
+    "Content": {
+      "Ground": {
+        "Light": {
+          "value": "{Core.Neutral.Blue.100}",
+          "type": "color"
+        },
+        "Med": {
+          "value": "{Core.Neutral.Blue.200}",
+          "type": "color"
+        },
+        "Dark": {
+          "value": "{Core.Neutral.Blue.300}",
+          "type": "color"
+        }
+      },
+      "Shape": {
+        "Light": {
+          "value": "{Core.Neutral.Blue.400}",
+          "type": "color"
+        },
+        "Dark": {
+          "value": "{Core.Neutral.Blue.500}",
+          "type": "color"
+        }
+      },
+      "Content": {
+        "Light": {
+          "value": "{Core.Neutral.Blue.600}",
+          "type": "color"
+        },
+        "Med": {
+          "value": "{Core.Neutral.Blue.700}",
+          "type": "color"
+        },
+        "Dark": {
+          "value": "{Core.Neutral.Blue.800}",
+          "type": "color"
+        }
+      },
+      "Base": {
+        "White": {
+          "value": "{Core.Neutral.Blue.50}",
+          "type": "color"
+        },
+        "Black": {
+          "value": "{Core.Neutral.Blue.900}",
+          "type": "color"
+        }
+      }
+    },
+    "Brand": {
+      "brand": {
+        "value": "#0088AF",
+        "type": "color"
+      },
+      "Med": {
+        "value": "#00BFEF",
+        "type": "color"
+      },
+      "Light": {
+        "value": "#C1E5EE",
+        "type": "color"
+      },
+      "Soft": {
+        "value": "#EBF7FA",
+        "type": "color"
+      },
+      "Air": {
+        "value": "#F5F9FA",
+        "type": "color"
+      }
+    },
+    "SColors": {
+      "Orange": {
+        "Dark": {
+          "value": "#D15900",
+          "type": "color"
+        },
+        "Med": {
+          "value": "#FFAB41",
+          "type": "color"
+        },
+        "Light": {
+          "value": "#FFE3B3",
+          "type": "color"
+        },
+        "Soft": {
+          "value": "#FFF7EB",
+          "type": "color"
+        },
+        "Air": {
+          "value": "#FFFCF7",
+          "type": "color"
+        }
+      },
+      "Green": {
+        "Dark": {
+          "value": "#02814A",
+          "type": "color"
+        },
+        "Med": {
+          "value": "#0AB652",
+          "type": "color"
+        },
+        "Light": {
+          "value": "#CFEEC1",
+          "type": "color"
+        },
+        "Soft": {
+          "value": "#EFFAEB",
+          "type": "color"
+        },
+        "Air": {
+          "value": "#F6FAF5",
+          "type": "color"
+        }
+      },
+      "Red": {
+        "Dark": {
+          "value": "#821523",
+          "type": "color"
+        },
+        "Med": {
+          "value": "#EE534F",
+          "type": "color"
+        },
+        "Light": {
+          "value": "#FFCDD2",
+          "type": "color"
+        },
+        "Soft": {
+          "value": "#FFF0F1",
+          "type": "color"
+        },
+        "Air": {
+          "value": "#FFFAFA",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "main": {
+    "value": "16",
+    "type": "fontSizes"
+  },
+  "seocndar": {
+    "value": "({main}* 4)",
+    "type": "fontSizes"
+  }
+}
