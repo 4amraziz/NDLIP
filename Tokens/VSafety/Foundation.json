@@ -56,6 +56,10 @@
           "value": "#0088AF",
           "type": "color"
         },
+        "brand-light": {
+          "value": "#00BFEF",
+          "type": "color"
+        },
         "soft": {
           "value": "#F4FAFC",
           "type": "color"
