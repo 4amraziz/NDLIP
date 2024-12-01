@@ -20,21 +20,21 @@
           "value": "{Core.Neutral.Blue.400}",
           "type": "color"
         },
-        "Dark": {
+        "Med": {
           "value": "{Core.Neutral.Blue.500}",
+          "type": "color"
+        },
+        "Dark": {
+          "value": "{Core.Neutral.Blue.600}",
           "type": "color"
         }
       },
       "Content": {
         "Light": {
-          "value": "{Core.Neutral.Blue.600}",
-          "type": "color"
-        },
-        "Med": {
           "value": "{Core.Neutral.Blue.700}",
           "type": "color"
         },
-        "Dark": {
+        "Med": {
           "value": "{Core.Neutral.Blue.800}",
           "type": "color"
         }
@@ -52,7 +52,7 @@
     },
     "Brand": {
       "Dark": {
-        "value": "#005770",
+        "value": "#006785",
         "type": "color"
       },
       "brand": {
