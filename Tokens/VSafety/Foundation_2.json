@@ -51,6 +51,10 @@
       }
     },
     "Brand": {
+      "Dark": {
+        "value": "#005770",
+        "type": "color"
+      },
       "brand": {
         "value": "#0088AF",
         "type": "color"
@@ -72,7 +76,7 @@
         "type": "color"
       }
     },
-    "SColors": {
+    "Secondary": {
       "Orange": {
         "Dark": {
           "value": "#D15900",

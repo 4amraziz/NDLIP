@@ -53,8 +53,7 @@
       "Primitives/Font/Size": "source",
       "Primitives/Font/LineHeight": "source",
       "Primitives/Font/LetterSpacing": "source",
-      "Primitives/Meter/NDSS": "source",
-      "VSafety/Foundation_2": "disabled"
+      "Primitives/Meter/NDSS": "source"
     },
     "group": "NDLIP"
   }
