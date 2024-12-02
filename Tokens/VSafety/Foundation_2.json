@@ -45,7 +45,7 @@
           "type": "color"
         },
         "Black": {
-          "value": "{Core.Neutral.Blue.900}",
+          "value": "red",
           "type": "color"
         }
       }
