@@ -23,13 +23,13 @@
         "Med": {
           "value": "{Core.Neutral.Blue.500}",
           "type": "color"
-        },
-        "Dark": {
-          "value": "{Core.Neutral.Blue.600}",
-          "type": "color"
         }
       },
       "Content": {
+        "Dark": {
+          "value": "{Core.Neutral.Blue.600}",
+          "type": "color"
+        },
         "Light": {
           "value": "{Core.Neutral.Blue.700}",
           "type": "color"
