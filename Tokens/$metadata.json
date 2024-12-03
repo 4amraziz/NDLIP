@@ -10,7 +10,6 @@
     "Primitives/Font/Size",
     "Primitives/Font/LineHeight",
     "Primitives/Font/LetterSpacing",
-    "VSafety/Foundation",
     "VSafety/Foundation_2",
     "VSafety/Button",
     "VSafety/Inputs"
