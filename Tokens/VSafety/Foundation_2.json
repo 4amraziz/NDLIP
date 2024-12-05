@@ -2,40 +2,40 @@
   "Main": {
     "Content": {
       "Ground": {
-        "Light": {
-          "value": "{Core.Neutral.Blue.100}",
+        "Dark": {
+          "value": "{Core.Neutral.Blue.300}",
           "type": "color"
         },
         "Med": {
           "value": "{Core.Neutral.Blue.200}",
           "type": "color"
         },
-        "Dark": {
-          "value": "{Core.Neutral.Blue.300}",
+        "Light": {
+          "value": "{Core.Neutral.Blue.100}",
           "type": "color"
         }
       },
       "Shape": {
-        "Light": {
-          "value": "{Core.Neutral.Blue.400}",
-          "type": "color"
-        },
         "Med": {
           "value": "{Core.Neutral.Blue.500}",
+          "type": "color"
+        },
+        "Light": {
+          "value": "{Core.Neutral.Blue.400}",
           "type": "color"
         }
       },
       "Content": {
-        "Dark": {
-          "value": "{Core.Neutral.Blue.600}",
+        "Med": {
+          "value": "{Core.Neutral.Blue.800}",
           "type": "color"
         },
         "Light": {
           "value": "{Core.Neutral.Blue.700}",
           "type": "color"
         },
-        "Med": {
-          "value": "{Core.Neutral.Blue.800}",
+        "Dark": {
+          "value": "{Core.Neutral.Blue.600}",
           "type": "color"
         }
       },
