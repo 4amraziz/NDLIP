@@ -3,39 +3,43 @@
     "Content": {
       "Ground": {
         "Dark": {
-          "value": "{Core.Neutral.Blue.300}",
+          "value": "#ECEDF0",
           "type": "color"
         },
         "Med": {
-          "value": "{Core.Neutral.Blue.200}",
+          "value": "#F3F4F5",
           "type": "color"
         },
         "Light": {
-          "value": "{Core.Neutral.Blue.100}",
+          "value": "#F9FAFB",
           "type": "color"
         }
       },
       "Shape": {
+        "Dark": {
+          "value": "#BABDC2",
+          "type": "color"
+        },
         "Med": {
-          "value": "{Core.Neutral.Blue.500}",
+          "value": "#CED0D6",
           "type": "color"
         },
         "Light": {
-          "value": "{Core.Neutral.Blue.400}",
+          "value": "#E0E2E5",
           "type": "color"
         }
       },
       "Content": {
+        "Dark": {
+          "value": "#4D5666",
+          "type": "color"
+        },
         "Med": {
-          "value": "{Core.Neutral.Blue.800}",
+          "value": "#7A838F",
           "type": "color"
         },
         "Light": {
-          "value": "{Core.Neutral.Blue.700}",
-          "type": "color"
-        },
-        "Dark": {
-          "value": "{Core.Neutral.Blue.600}",
+          "value": "#A3A7AD",
           "type": "color"
         }
       },

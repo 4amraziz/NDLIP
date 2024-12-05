@@ -10,10 +10,8 @@
       "Main.Content.Ground.Med": "S:2cb5705e25c6039ab4f0117466e3c06f3fa08cf5,",
       "Main.Content.Ground.Light": "S:2de1c65a9abfbe8f5a7d9e46cf96c0e94d013e74,",
       "Main.Content.Shape.Med": "S:32df0d985c78ea474f904209f92b984ae1c4104e,",
-      "Main.Content.Content.Med": "S:8d401856fac458db52c84076ab76bc960b297bf5,",
       "Main.Content.Shape.Dark": "S:eb737b479d31d3b09a144bbd44e6d98a03798da3,",
       "Main.Content.Content.Light": "S:5eb796264f06e80df9a1681cdb291fcecbd9f425,",
-      "Main.Content.Content.Dark": "S:21521f5e75cccbf8d82d41e7187dca27feaf2edf,",
       "Main.Content.Base.White": "S:aa46be57961ffa9ce21522deacf7051a6189efe9,",
       "Main.Content.Base.Black": "S:d3a311f3ef7e932e7429e6bad64c63e7183763bb,",
       "Main.Brand.Main.brand": "S:5b8e53a851565a7b1fd83557c828af293d89da0e,",
@@ -54,7 +52,9 @@
       "Main.Secondary.Red.Med": "S:ada019903112f5904212551d4bcd7c95a44f113a,",
       "Main.Secondary.Red.Light": "S:e10cb698a21d292138def06571b2850359ce0fb7,",
       "Main.Secondary.Red.Soft": "S:976e0058f2ddd53e9c7e2db5fbb25ff0acf413f5,",
-      "Main.Secondary.Red.Air": "S:3cc5b2775e43a464645a7482ca829ac33505405d,"
+      "Main.Secondary.Red.Air": "S:3cc5b2775e43a464645a7482ca829ac33505405d,",
+      "Main.Content.Content.Dark": "S:8d401856fac458db52c84076ab76bc960b297bf5,",
+      "Main.Content.Content.Med": "S:21521f5e75cccbf8d82d41e7187dca27feaf2edf,"
     },
     "selectedTokenSets": {
       "Primitives/Color/Light": "source",
@@ -79,8 +79,6 @@
       "Main.Content.Shape.Light": "2ece0523a7ad44b6ed8e8b092da22f50f9d6b53f",
       "Main.Content.Shape.Dark": "63e72be6881d543f9124a05fca5eabad9d23e40e",
       "Main.Content.Content.Light": "397f656dac3cf10e5ccf97bb21452b7b3f63057d",
-      "Main.Content.Content.Med": "85c6c5e31d3d27c7f09bc94ed5ef14e41cfb1f5b",
-      "Main.Content.Content.Dark": "46414b3ee5d7402b7a129c8c5211c8871d5b18b7",
       "Main.Content.Base.White": "07b2185de6b28ff70f213b295892e168a4a8b2f0",
       "Main.Content.Base.Black": "780e113fce857c91d6b01cb65ab0a7b49a9d8dc2",
       "Main.Brand.Main.brand": "1b0aefa07ab4e2b1436807d4a415b5d7826e34fc",
@@ -124,7 +122,9 @@
       "Main.Secondary.Red.Med": "8e274c8cd3d04b1e54b375d808fe2a45512951e9",
       "Main.Secondary.Red.Light": "872c487ec50bcf1b1b289224b4c7def97d156a70",
       "Main.Secondary.Red.Soft": "b08af95cd723bc3cac8c166a171d57a824591cdb",
-      "Main.Secondary.Red.Air": "81533b5e4687a4e3fd1eca7323a1b4d8258970ea"
+      "Main.Secondary.Red.Air": "81533b5e4687a4e3fd1eca7323a1b4d8258970ea",
+      "Main.Content.Content.Dark": "85c6c5e31d3d27c7f09bc94ed5ef14e41cfb1f5b",
+      "Main.Content.Content.Med": "46414b3ee5d7402b7a129c8c5211c8871d5b18b7"
     },
     "group": "NDLIP"
   },
