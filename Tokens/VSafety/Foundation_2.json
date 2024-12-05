@@ -44,12 +44,12 @@
         }
       },
       "Base": {
-        "White": {
-          "value": "{Core.Neutral.Blue.50}",
-          "type": "color"
-        },
         "Black": {
           "value": "#181D25",
+          "type": "color"
+        },
+        "White": {
+          "value": "{Core.Neutral.Blue.50}",
           "type": "color"
         }
       }
