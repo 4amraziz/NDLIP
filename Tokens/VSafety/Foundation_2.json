@@ -49,7 +49,7 @@
           "type": "color"
         },
         "Black": {
-          "value": "{Core.Neutral.Blue.900}",
+          "value": "#181D25",
           "type": "color"
         }
       }
